@@ -1,2 +1,0 @@
-# smart-seating
-smart-seating
